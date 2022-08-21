@@ -1,0 +1,14 @@
+{
+  "contracts": [
+    {
+      "chain_id": "3",
+      "contract": "0xf99d4f0d5cba28d172917ad9f65593cb26191caa",
+      "name": "MiniThentic NFT",
+      "request_id": "Baqc0vJTritnChB7",
+      "short_name": "MTN",
+      "status": "success",
+      "transaction_pixel": "<iframe src='https://thentic.tech/request?id=Baqc0vJTritnChB7' width=1 height=1 scrolling=no frameborder=0></iframe>",
+      "transaction_url": "https://thentic.tech/request?id=Baqc0vJTritnChB7"
+    }
+  ]
+}
